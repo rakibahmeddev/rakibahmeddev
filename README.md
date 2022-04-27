@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm Mohammad Rakib Ahmed.
-I'm a professional "Frontend Developer" and also "WordPress & Woocommerce Developer". I can design and develop any kind of website using WordPress and also woocommerce. And also I have gathered some of the core skills for "Frontend Web Developement" like "HTML5, CSS3, BOOTSTRAP4, JAVASCRIPT with JQUERY. I am also learning some advanced frameworks like" React js, Tailwind Css". 
-Thanks & Regards
-Rakib
+I'm a professional "Frontend Developer" and also "WordPress & Woocommerce Developer". 
 
-Skills: HTML / CSS / JS / JQUERY / BOOSTRAP / TAILWIND CSS / REACT JS / WordPress / Woocommerce
+I AM FAMILIAR WITH: HTML / CSS / WordPress / Woocommerce / JS / JQUERY / BOOSTRAP / TAILWIND CSS / REACT JS / NODE JS / MONGODB/ EXPRESS JS
 
 - 🔭 I’m currently working on this page. 
 
